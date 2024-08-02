@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVtYjB2amxyNmJ0aG4wZ3Y5em5qeHl0dDdmaGIzNTd4OXBoMTk1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt2yLtw8SIR0GqqlVb/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVtYjB2amxyNmJ0aG4wZ3Y5em5qeHl0dDdmaGIzNTd4OXBoMTk1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jt2yLtw8SIR0GqqlVb/giphy.gif" width="350"/>
 </div>
 
 ## _Why DoorDash?_ :thinking:
@@ -35,3 +35,5 @@ https://www.kaggle.com/search?q=doordash+in%3Adatasets
 
 > [!NOTE]
 > Information within sources may update as time goes by.
+
+## _Credits_ :thumbsup:
