@@ -10,7 +10,7 @@
 
 ## _Why DoorDash?_ :thinking:
 
-DoorDash was originally designed to help small restaurants with little to no delivery system for their product. From there the founders (Stanley Tang, Tony Xu, Andy Fang, and Evan Moore) managed to grow the company worldwide not only helping the supply of fast food goods, but also products such as groceries, clothes, etc. Throughout this project, we are going to look at their previous finance history to determine how success the company has become so far as well as predict further financing expectations. 
+DoorDash was originally designed to help small restaurants with little to no delivery system for their product. From there the founders (Stanley Tang, Tony Xu, Andy Fang, and Evan Moore) managed to grow the company worldwide not only helping the supply of fast food goods, but also products such as groceries, clothes, etc. Throughout this project, we are going to look at their previous financial history to determine how successful the company has become so far as well as predict further financial expectations. 
 
 ## _Is DoorDash destined for continued success? (2024 Q2 Predictions)_ :money_with_wings:
 
