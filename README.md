@@ -10,15 +10,15 @@
 
 ## _Why DoorDash?_ :thinking:
 
-DoorDash was originally designed to help small restaurants with little to no delivery system for the product. From there the founders (Stanley Tang, Tony Xu, Andy Fang, and Evan Moore) managed to grow the company worldwide not only helping the supply of food goods, but also products such as groceries, clothes, etc. Throughout this project, we are going to look at their previous finance history to determine how success the company has become so far as well as predict further financing expectations. 
+DoorDash was originally designed to help small restaurants with little to no delivery system for their product. From there the founders (Stanley Tang, Tony Xu, Andy Fang, and Evan Moore) managed to grow the company worldwide not only helping the supply of fast food goods, but also products such as groceries, clothes, etc. Throughout this project, we are going to look at their previous finance history to determine how success the company has become so far as well as predict further financing expectations. 
 
 ## _Is DoorDash destined for continued success? (2024 Q2 Predictions)_ :money_with_wings:
 
-As of 2024, DoorDash is leading the US in online food delivery. It was recorded in 2021 that DoorDash has over 390,000 partner restaurants maintaining over 18 million users and growing. Now 3 years later, they've grown to over 550,000 partner restaurants with 37 million active users, easily doubling over previous statistics.
+As of 2024, DoorDash is leading the US in online food delivery. It was recorded in 2021 that DoorDash has over 390,000 partner restaurants maintaining over 18 million users and growing. Now 3 years later, they've grown to over 550,000 partner restaurants with 37 million active users, easily doubling over previous statistics. So, it is safe to say that DoorDash through the ups and downs of the company, is still and will continue to stand strong in the competitive food delivery industry. 
 
 ## _What to expect within the presentation?_ :chart_with_upwards_trend:
 
-What you will see during this presentation is the companys growth year by year financially showing how successful DoorDash is now and how much further they expect to go with the company both financially and technically.
+What you will see during this presentation is the companys growth year by year financially showing how successful DoorDash is now and how much further they expect to go with the company both financially and technically. You will also be presented with many graphs designed by the documentation from DoorDash providing a more visual view of their financing over the years. 
 
 ## _Sources_ :mag:
 
